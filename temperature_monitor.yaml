@@ -29,7 +29,7 @@ openapi: 3.0.1
 info:
   title: Remote Temperature Monitor
   description: |
-    (API SAMPLE) Allows a remote temperature monitor to retrieve configuration data
+    (API EXCERPT) Allows a remote temperature monitor to retrieve configuration data
     from a server.
   contact:
     email: notaperson@fictional.com
