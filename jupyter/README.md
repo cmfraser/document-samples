@@ -1,1 +1,1 @@
-Contains Jupyter Notebook output files corresponding to program files (in ../document-samples/).
+The HTML version of ../document-samples/rev_comp.py generated using Jupyter Notebook.
